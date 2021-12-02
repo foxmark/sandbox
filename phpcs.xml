@@ -3,7 +3,6 @@
 <ruleset name="PSR12">
     <description>My PSR12</description>
     <rule ref="PSR12"/>
-    <file>app/</file>
     <file>src/</file>
     <file>tests/</file>
 </ruleset>
